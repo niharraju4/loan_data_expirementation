@@ -1,5 +1,3 @@
-Certainly! Below is a detailed documentation for the provided code, including a table of contents and results.
-
 # Table of Contents
 1. [Introduction](#introduction)
 2. [Libraries](#libraries)
@@ -265,6 +263,6 @@ The results include the cleaned and preprocessed DataFrame, the logistic regress
 - **DemoTransformer**: A base transformer class.
 - **MeanImputer**: A custom mean imputer class.
 
-This documentation provides a comprehensive guide to preprocessing, cleaning, and analyzing loan data using Python.
+
 
 **Author: Nihar Raju**
